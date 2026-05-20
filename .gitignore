@@ -1,0 +1,12 @@
+# Secure Environment Variables
+.env
+
+# Python Caching & Local Virtual Environments
+__pycache__/
+*.pyc
+ai-agent-env/
+pyvizenv/
+
+# Local OS Files
+.DS_Store
+Thumbs.db
